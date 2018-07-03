@@ -68,6 +68,111 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/api/category/CategoryV1Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/application/category/CategoryApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/application/hotel/HotelDtoConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/application/hotel/converter/HotelFacilityDtoConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/application/hotel/converter/HotelRoomFeatureConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/application/hotel/converter/ImageDtoConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-catalog-interface/src/main/java/com/coupang/travelreactor/application/hotel/dto/HotelRoomBedDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/configuration/couchbase/CouchbaseConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/common/idgenerator/IdGeneratingStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/category/dto/AssociatedFeatureDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/feature/data/FeatureTypeCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/feature/service/FeatureService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/feature/service/FeatureUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/feature/service/FeatureValueIndexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/featurevalue/entity/FeatureValue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/index/TravelFeatureValueDtoBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/newfeature/data/FeatureTypeDisplayGroup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/main/java/com/coupang/travelreactor/domain/core/travelcategory/data/TravelCategoryType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-business/src/test/groovy/com/coupang/travelreactor/domain/core/feature/service/FeatureUtilTest.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../travel-reactor/travel-reactor-interface/src/main/java/com/coupang/travelreactor/controller/feature/FeatureController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
