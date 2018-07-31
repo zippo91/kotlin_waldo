@@ -34,4 +34,48 @@ fun main(args: Array<String>) {
     println()
 
     println(listOf(1, 2, 3, 4).asSequence().map { it * it }.find { it > 3 })
+
+    println(alphabetWith())
+}
+
+fun alphabet(): String {
+    val result = StringBuilder()
+    for (letter in 'A'..'Z') {
+        result.append(letter)
+    }
+    result.append("\n Now I know the alphabet!")
+    return result.toString()
+}
+
+fun alphabetWith(): String {
+    val stringBuilder = StringBuilder()
+    return with(stringBuilder) {
+        for (letter in 'A'..'Z') {
+            append(letter)
+        }
+        append("\n Now I know the alphabet!")
+        toString()
+    }
+}
+
+fun alphabetRefactorying() = with(StringBuilder()) {
+    for (letter in 'A'..'Z') {
+        append(letter)
+    }
+    append("\n Now I know the alphabet!")
+    toString()
+}
+
+fun alphabetApply() = StringBuilder().apply {
+    for (letter in 'A'..'Z') {
+        append(letter)
+    }
+    append("\n Now I know the alphabet!")
+}.toString()
+
+fun alphabetBuildString() = buildString {
+    for (letter in 'A'..'Z') {
+        append(letter)
+    }
+    append("\n Now I know the alphabet!")
 }
