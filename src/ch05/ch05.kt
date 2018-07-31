@@ -26,6 +26,17 @@ fun main(args: Array<String>) {
     printProblemCounts(error)
 
     run(::salute) //최상위 함수도 멤버 참조로 참조가능
+
+    val action = {person: Person, message: String -> sendMail(person, message)}
+
+    val createPerson = ::Person
+    val p = createPerson("Lee", 2)
+    println(p)
+    val predicate = Person::isAdult // 확장함수도 멤버 함수와 같이 참조가능
+}
+
+fun sendMail(person: Person, message: String) : String {
+    return "To. ${person.name} contents : $message"
 }
 
 fun printMessagesWithPrefix(message: Collection<String>, prefix: String) {
